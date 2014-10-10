@@ -39,6 +39,8 @@ class ViewController: UIViewController {
         mailButton.setTitle("SENT MAIL!!!", forState: UIControlState.Normal)
         
         enterMessageTextField.text = ""
+        
+        //Comment to test git push
 
 }
 
