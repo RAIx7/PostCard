@@ -44,6 +44,8 @@ class ViewController: UIViewController {
         
         enterMessageTextField.text = ""
         enterNameTextField.text = ""
+        
+        //TEST COMMIT 4
     
 }
 
